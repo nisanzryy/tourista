@@ -29,7 +29,6 @@ Tourista aims to enhance the travel experience by providing an all-in-one platfo
 ## Entity-Relationship Diagram (ERD)
 
 
-### Key Tables:
 
 ## Sequence Diagram
 
