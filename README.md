@@ -3,7 +3,7 @@
 ## Group Members
 - **Member 1**: Ammar Haziq bin Zainal (2217763)
 - **Member 2**: Nur Amira Binti Azhari (2217176)
-- **Member 3**: Name (Matric No.)
+- **Member 3**: Nik Shameera Azfareeha Binti Nik Shamlan (2213916)
 - **Member 4**: Name (Matric No.)
 
 ## Introduction
