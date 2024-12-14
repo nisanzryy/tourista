@@ -3,8 +3,9 @@
 ## Group Members
 - **Member 1**: Ammar Haziq bin Zainal (2217763)
 - **Member 2**: Nur Amira Binti Azhari (2217176)
-- **Member 3**: Name (Matric No.)
+- **Member 3**: Nik Shameera Azfareeha Binti Nik Shamlan (2213916)
 - **Member 4**: Name (Matric No.)
+- **Member 5**: Name (Matric No.)
 
 ## Introduction
 Tourista is a user-friendly web application designed to streamline the process of booking and managing tour packages. With an intuitive interface, Tourista connects travelers with tour providers, offering a seamless experience from discovery to booking.
@@ -14,17 +15,19 @@ Tourista aims to enhance the travel experience by providing an all-in-one platfo
 
 ## Features and Functionalities
 1. **User Authentication**: 
-   - Separate portals for customers and service providers.
-2. **Tour package Listings**: 
-   - Categorized services such as cleaning, repairs, and tutoring.
+   - Separate portals for users and admin.
+   - Provide a secure register and log in to the system.
+2. **Tour Package Listings**: 
+   - Provide detailed descriptions on itineraries, pricing, special offers, and availability.
 3. **Booking System**: 
-   - Schedule appointments with service providers based on availability.
+   - Book tour packages based on the real-time availability.
+   - Allow users to modify and cancel their bookings, admin can update status based on user actions.
 4. **Payment Integration**: 
    - Online payment processing via Stripe or PayPal.
 5. **Ratings and Reviews**: 
-   - Allow users to leave feedback on completed services.
+   - Allow users to leave, read, and edit feedback after completing a tour, admin can remove inappropriate or spam feedback.
 6. **Admin Panel**: 
-   - Manage users, services, and bookings.
+   - Manage users, tour packages, and bookings.
 
 ## Entity-Relationship Diagram (ERD)
 
